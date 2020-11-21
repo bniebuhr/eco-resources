@@ -17,6 +17,6 @@ Por favor, dê uma olhada nos arquivos e links abaixo.
 
 ## SIG and maps
 
-- [SIG and geoprocessing in R](sig_maps_r.md)
-- [Accessing and downloading maps](access_download_maps.md)
+- [resources on SIG and geoprocessing in R](sig_maps_r.md)
+- [resources to access and download maps](access_download_maps.md)
 
