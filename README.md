@@ -11,9 +11,9 @@ Por favor, dê uma olhada nos arquivos e links abaixo.
 - [reindeer ecology resources](reindeer.md)
 
 
-## R
+## Statistics
 
-
+- [statistical modelling resources](statistical_models.md)
 
 ## maps
 
