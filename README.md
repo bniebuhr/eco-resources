@@ -15,10 +15,8 @@ Por favor, dê uma olhada nos arquivos e links abaixo.
 
 - [statistical modelling resources](statistical_models.md)
 
-## maps
+## SIG and maps
 
-### Download of TanDEM-X elevation data through R
+- [SIG and geoprocessing in R](sig_maps_r.md)
+- [Accessing and downloading maps](access_download_maps.md)
 
-- Package: https://github.com/meteosimon/TanDEM-R
-- Orginal website: https://geoservice.dlr.de/web/dataguide/tdm90/
-Accessed: 2020-11-20
