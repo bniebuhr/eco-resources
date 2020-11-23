@@ -10,6 +10,9 @@ Por favor, dê uma olhada nos arquivos e links abaixo.
 
 - [reindeer ecology resources](reindeer.md)
 
+## R
+
+- [basics and not-so-basics in R](basics_r.md)
 
 ## Statistics
 
